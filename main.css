@@ -1,0 +1,10 @@
+body {
+  font-family: Tahoma, sans-serif;
+  direction: rtl;
+  background-color: #f4f8fb;
+  color: #333;
+  padding: 20px;
+}
+h1 {
+  color: #0066cc;
+}
